@@ -15,6 +15,6 @@ for num in numeros:
     else:
         numerosPrimos.append(num)
 
-print(numeros)
 print(f'Números primos: {numerosPrimos}')
 print(f'Números não primos: {numerosNaoPrimos}')
+print(numeros)
